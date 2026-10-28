@@ -16,22 +16,31 @@ Most of that work lives in private repositories, so here is what it adds up to.
 | 🎣 | **[ExpertCast](https://www.ambersf.com/expertcast/en/)** | Fishing companion: catch log, species guide, spots map, weather | iOS |
 | 💌 | **[e-Davetiye](https://www.ambersf.com/e-davetiye/en/)** | Digital invitations guests open in the browser, no install needed | iOS · Android |
 | 🐟 | **[Balık Cetveli](https://www.ambersf.com/balik-cetveli/en/)** | Is this fish legal to buy or catch right now? Turkey's fishing rules, offline | iOS, coming soon |
+| ⚽ | **[Çete Halı Saha](https://www.ambersf.com/cete-halisaha/)** | Football school management: athlete registration, attendance, fees, receipts and parent communication | iOS · Android · Web |
 
-### Ventures
+### Web projects & ventures
 
 🥑 **[Vosvos Tropikal](https://vosvostropikal.com)**: the tropical fruit store I co-founded and built end to end. Next.js, TypeScript and Supabase, with 3D Secure payments, a courier and depot screen, shipping labels and cost-based pricing.
+
+🛍️ **[VitaBana](https://www.ambersf.com/vitabana/en/)**: a vitamin and food supplement e-commerce website. Product catalog, category filters, cart and ordering, built with Next.js and Supabase. [Visit the store](https://vitabana.com/).
+
+### Selected client work
+
+- **[Ay Psikoloji · Ayşegül Yel](https://aypsikolog.com/)**: a clinical psychologist’s website with practice information, articles and appointment requests. Built with Astro and Cloudflare.
+- **[Ertech Akademi](https://akademi.ertechsoftware.com/)**: an online learning platform with course discovery, student accounts and learning content. Next.js frontend and Ktor backend.
 
 ### Open source
 
 - **[Lantern](https://github.com/ambercatalbas/Lantern)**: in-app observability for iOS. Pluggable network, console and analytics probes feed a shake-to-open SwiftUI inspector.
 - **[e-davetiye](https://github.com/ambercatalbas/e-davetiye)**: the browser engine that renders e-Davetiye invitations.
+- **[vaktinde-mosque-data](https://github.com/ambercatalbas/vaktinde-mosque-data)**: OpenStreetMap mosque data as geographic JSON tiles for Vaktinde’s nearby mosques feature. Includes the data pipeline and scheduled updates; © OpenStreetMap contributors, ODbL 1.0.
 
 ### Stack
 
 **iOS:** Swift, SwiftUI, UIKit, Swift Concurrency, WidgetKit, ActivityKit, App Intents, StoreKit 2, watchOS\
 **Android:** Kotlin, Jetpack Compose, Google Play Billing\
 **Backend & web:** Firebase, Supabase, Node.js, Next.js, PostgreSQL\
-**Workflow:** MVVM, Clean Architecture, XCTest, Fastlane, AI-assisted development with Claude Code
+**Workflow:** MVVM, Clean Architecture, XCTest, Fastlane, AI-assisted development with Claude Code and Codex
 
 ### Contact
 
