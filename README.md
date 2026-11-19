@@ -16,7 +16,7 @@ Most of that work lives in private repositories, so here is what it adds up to.
 | 🎣 | **[ExpertCast](https://www.ambersf.com/expertcast/en/)** | Fishing companion: catch log, species guide, spots map, weather | iOS |
 | 💌 | **[e-Davetiye](https://www.ambersf.com/e-davetiye/en/)** | Digital invitations guests open in the browser, no install needed | iOS · Android |
 | 🐟 | **[Balık Cetveli](https://www.ambersf.com/balik-cetveli/en/)** | Is this fish legal to buy or catch right now? Turkey's fishing rules, offline | iOS, coming soon |
-| ⚽ | **[Çete Halı Saha](https://www.ambersf.com/cete-halisaha/)** | Football school management: athlete registration, attendance, fees, receipts and parent communication | iOS · Android · Web |
+| ⚽ | **[Çete Halı Saha](https://www.ambersf.com/cete-halisaha/)** | Football school management: athlete registration, attendance, fees, receipts and parent communication | [App Store](https://apps.apple.com/tr/app/id6818069513) · [Google Play](https://play.google.com/store/apps/details?id=com.ambersf.cetehalisaha) · [Web](https://cete.ambersf.com/) |
 
 ### Web projects & ventures
 
@@ -24,7 +24,13 @@ Most of that work lives in private repositories, so here is what it adds up to.
 
 🛍️ **[VitaBana](https://www.ambersf.com/vitabana/en/)**: a vitamin and food supplement e-commerce website. Product catalog, category filters, cart and ordering, built with Next.js and Supabase. [Visit the store](https://vitabana.com/).
 
+### Web & e-commerce studio
+
+🧩 **[Web & E-ticaret](https://www.ambersf.com/web-eticaret/)**: custom e-commerce sites for brands, written for the business instead of rented from a template. No yearly license; the code and accounts belong to the client. Built on a shared AmberSF commerce core (Next.js, TypeScript, Supabase) with a common admin panel, payments, shipping and order flows, so a new store goes from design to launch in days.
+
 ### Selected client work
+
+- **[Süslü Hayaller Mutfağı](https://www.susluhayallermutfagi.com/)**: Chef Ayşe Tüfekçi’s baking supply shop, online and in-person pastry courses and custom cake orders in one store. Built and maintained by AmberSF.
 
 - **[Ay Psikoloji · Ayşegül Yel](https://aypsikolog.com/)**: a clinical psychologist’s website with practice information, articles and appointment requests. Built with Astro and Cloudflare.
 - **[Ertech Akademi](https://akademi.ertechsoftware.com/)**: an online learning platform with course discovery, student accounts and learning content. Next.js frontend and Ktor backend.
